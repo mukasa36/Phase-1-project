@@ -1,0 +1,24 @@
+{
+    "shirts":[
+        {
+            "id":1,
+            "name":"long-sleeve",
+            "cost":"Ksh 1500",
+            "image":"https://nymag.com/strategist/article/best-mens-long-sleeve-t-shirts.html"
+        },
+        {
+            "id":2,
+            "name":"jersey",
+            "cost":"Ksh 2500",
+            "image":"https://weaintgotnohistory.sbnation.com/2023/7/2/23781691/sponsorless-2023-24-home-and-away-chelsea-kits-leaked"
+        },
+        {
+            "id":3,
+            "name":"short-sleeve",
+            "cost":"Ksh 600",
+            "image":"https://copia.co.ke/product/mens-short-sleeve-maroon-shirt-s/"
+        }
+    ]
+}
+
+    

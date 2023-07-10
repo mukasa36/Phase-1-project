@@ -1,0 +1,132 @@
+/* .top{
+display: flex;
+justify-content: center;
+
+}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    background-color:red;
+    font-size:large;
+    font-style: oblique;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    background-color: blue;
+    border-radius: 20px;
+    border-width: 40px; 
+}
+
+#navigation{
+    display:flex;
+    font-style: inherit;
+    justify-content: space-around;
+    font-size: large;
+}
+
+body{
+    background-color:white;
+    background-image: url("./asset/https:/unsplash.com/images/nature/space/");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.name{
+    color: black;
+    
+    
+}
+
+.name:hover{
+    background-color:none;
+    cursor: pointer;
+}
+
+.search{
+    width: 400px;
+    padding: 10px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 150px;
+    height: 50px;
+    background:whitesmoke;
+    border: 3px;
+    margin-top: 15px;
+    color: white;
+    border-right: none;
+    font-size: 14px;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+
+}
+.description{
+width: 1000px;
+height: 2200px;
+color:black;
+font-size: large;
+
+}
+.description{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    justify-content: center;
+}
+ */
+
+ body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right,blue , red); 
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+#userinput{
+width: 200px;
+height: 50px;
+background-color: brown;
+font-size: 20px;
+padding: 10px;
+border-bottom-left-radius: 5px;  
+}
+#enter{
+ width: 100px;
+ height: 50px;
+ padding: 10px;
+font-family: Arial;
+font-weight: 100px;
+background-color: blue;
+}
